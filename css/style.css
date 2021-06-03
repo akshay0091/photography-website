@@ -39,3 +39,10 @@
   #conact-deatails{
       text-size-adjust: 10px;
   }
+  .cover-pic-knowmore{
+      filter: blur(10px);
+  }
+.note{
+    position: absolute;
+    top: 400px;
+}
